@@ -215,4 +215,4 @@ pip-log.txt
 .mr.developer.cfg
 
 #do not use Live config
-config/config.cfg
+configs/config.cfg
